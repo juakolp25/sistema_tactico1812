@@ -30,7 +30,7 @@ Si quieres correr este sistema de comando en tu máquina local, sigue estos paso
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/tu-usuario/manuel-belgrano-1812.git
+git clone https://github.com/juakolp25/sitema_tactico1812.git
 Instalar dependencias:
 
 Bash
